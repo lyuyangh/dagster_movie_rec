@@ -1,0 +1,8 @@
+.logs_queue
+.telemetry
+logs
+history
+__pycache__
+tmp*
+schedules
+*.egg-info
